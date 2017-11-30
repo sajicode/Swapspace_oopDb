@@ -1,2 +1,3 @@
 /.vagrant
 /www/includes/db.php
+/www/db_config.php
