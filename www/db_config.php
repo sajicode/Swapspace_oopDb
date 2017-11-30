@@ -2,7 +2,7 @@
 $config = [
 	'host' => 'localhost',
 	'user' => 'root',
-	'password' => 'vagrant',
+	'password' => 'adams',
 	'dbname' => 'oop'
 
 ];
